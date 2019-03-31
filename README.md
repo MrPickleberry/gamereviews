@@ -5,7 +5,7 @@ if you want a little review on games.
 Based off of WorldWar1
 
 * First person shooter game
-* M violence 
+* M violence,Weapons,Blood but for a momment on your screen but then gone after a couple of seconds.
 
 
 **Bold**
@@ -19,3 +19,4 @@ Based off of WorldWar1
 #### heading 4
 
 ----
+## Minecraft
