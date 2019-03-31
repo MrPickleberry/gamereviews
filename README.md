@@ -1,2 +1,2 @@
-# gamereviews
+# MrPickleberry's gamer reviews
 if you want a little review on games.
