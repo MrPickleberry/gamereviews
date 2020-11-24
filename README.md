@@ -1,5 +1,5 @@
-# MrPickleberry's gamer reviews
-if you want a little review on games.
+# Dragonfly's game reviews
+if you want a little review on games and some tips on how to not die.
 
 ## BATTLEFIELD 1
 Based off of WorldWar1
