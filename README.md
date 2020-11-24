@@ -5,7 +5,7 @@ if you want a little review on games.
 Based off of WorldWar1
 
 * First person shooter game
-* M violence,Weapons,Blood but for a momment on your screen but then gone after a couple of seconds.
+* Rated M for Violence(although its really not all that bad) ,Weapons(each has its own little history session like the smallest gun ever(does absolutely no damage) created by a watch maker.) ,Blood but for a moment on your screen but then gone after a couple of seconds.
 
 
 **Bold**
